@@ -1,4 +1,4 @@
-# 🏆 Geo-AI Hackathon: Final Submission Package
+# 🏆 Geo-AI Hackathon:
 
 **Team ID:** Team_Nati-250448_Theme1  
 **Project:** Semantic Segmentation of High-Resolution Orthophotography  
@@ -13,7 +13,7 @@ While standard models failed to detect "Infra" (<0.01% of data), our **Hierarchi
 
 ---
 
-## 📸 The Visual Evidence (New!)
+## 📸 The Visual Evidence 
 
 We have generated a comprehensive visual portfolio to prove the model's robustness in the real world.
 
