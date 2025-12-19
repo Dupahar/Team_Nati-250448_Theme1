@@ -64,5 +64,3 @@ This folder contains the complete deliverables:
 3.  **Visualization:** Check `final_predictions_highlights/` to see the filtered "Best of" results.
 
 ---
-
-*Ready for Submission.*
