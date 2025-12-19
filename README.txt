@@ -11,8 +11,6 @@ CONTENTS:
    - requirements.txt: List of Python libraries required.
 
 2. outputs/
-   - result_image_*.png: Visualizations showing Original Image vs. Predicted Mask vs. Overlay.
-   - extracted_buildings.shp: Sample shapefile output (if applicable).
 
 3. report/
    - Theme1_Technical_Report_Nati250448.pdf: Detailed methodology and results.
